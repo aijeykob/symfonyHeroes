@@ -122,4 +122,13 @@ class Hero
 
         return $this;
     }
+
+//    public function findHeroesForPagination($number): array
+//    {
+//        $entityManager = $this->getEntityManager();
+//        $this->heroImage = $heroImage;
+//
+//        return $this;
+//    }
+
 }
